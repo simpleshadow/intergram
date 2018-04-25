@@ -49,7 +49,7 @@ export const mobileOpenWrapperStyle = {
 export const desktopTitleStyle = {
     height: '40px',
     lineHeight: '30px',
-    fontSize: '20px',
+    fontSize: '1em',
     display: 'flex',
     justifyContent: 'space-between',
     padding: '5px 0 5px 20px',
