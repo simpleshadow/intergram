@@ -1,13 +1,13 @@
 
 export const desktopWrapperStyle = {
     position: 'fixed',
-    bottom: '20px',
+    bottom: '0',
     right: '20px',
     zIndex: 2147483647,
-    borderRadius: '10px',
+    borderRadius: '0.25rem 0.25rem 0 0',
     background: 'rgb(229, 229, 229)',
     boxSizing: 'content-box',
-    boxShadow: '0px 0px 30px rgba(0, 0, 0, 0.5)',
+    // boxShadow: '0px 0px 30px rgba(0, 0, 0, 0.5)',
     overflow: 'hidden'
 };
 
